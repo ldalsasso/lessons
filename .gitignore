@@ -1,0 +1,10 @@
+*.jpg
+*.swp
+*.pyc
+*.swo
+*.pyo
+.idea
+.vscode/
+media/*
+static/*
+db.sqlite3
