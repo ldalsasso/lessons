@@ -60,6 +60,6 @@ Todos los endpoint para la gestión de Cursos, Lecciones y Amigos requiere auten
 
 ## Test:
 
-Para poder correr los test ejecutar las siguientes instrucciones:
+Para poder correr los test ejecutar la siguiente instrucción:
 
 - pytest tests/ --create-db
