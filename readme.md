@@ -55,3 +55,11 @@ Todos los endpoint para la gestión de Cursos, Lecciones y Amigos requiere auten
 - Crear un amigo - POST - /api/v1/friends/
 - Listar todos los amigos (Login: Superuser) - GET - /api/v1/friends/
 - Listar todos los amigos de un usuario (Login: User) - GET - /api/v1/friends/
+
+
+
+## Test:
+
+Para poder correr los test ejecutar las siguientes instrucciones:
+
+- pytest tests/ --create-db
